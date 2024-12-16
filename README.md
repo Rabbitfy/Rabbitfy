@@ -9,6 +9,6 @@ All rights to the design and use of the Rabbitfy Logo remain exclusively with Ab
 For inquiries or permissions, please contact Rabbitfy directly.
 
 **Issued by:**
-Rabbitfy
+Rabbitfy </b>
 Advancing Technology, Simplifying Life
 
