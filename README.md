@@ -1,16 +1,14 @@
-## Hi there 👋
+## NOTICE
 
-<!--
-**Rabbitfy/Rabbitfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Subject:** Rabbitfy Logo Trademark Registration Status
 
-Here are some ideas to get you started:
+Please be informed that the Rabbitfy Logo is not registered as a trademark due to the founder's age being under 18. However, the logo is copyrighted and legally protected under the ownership of **Abdur Rakib Talukder**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All rights to the design and use of the Rabbitfy Logo remain exclusively with Abdur Rakib Talukder. Unauthorized reproduction, distribution, or use of the logo is strictly prohibited and may result in legal action.
+
+For inquiries or permissions, please contact Rabbitfy directly.
+
+**Issued by:**
+Rabbitfy
+Advancing Technology, Simplifying Life
+
